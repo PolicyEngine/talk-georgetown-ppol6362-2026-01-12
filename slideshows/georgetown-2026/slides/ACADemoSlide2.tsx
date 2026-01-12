@@ -28,6 +28,14 @@ export default function ACADemoSlide2() {
               className="object-contain"
             />
           </div>
+          <a
+            href="https://aca-calc.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-4 text-teal-600 hover:text-teal-800 underline"
+          >
+            aca-calc.vercel.app
+          </a>
         </div>
       </div>
     </Slide>
