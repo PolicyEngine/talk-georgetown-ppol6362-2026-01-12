@@ -15,10 +15,10 @@ export default function IntroSlide() {
         <SlideContent size="lg">
           <ul className="list-disc list-inside space-y-4 text-left">
             <li>Introduction to PolicyEngine</li>
-            <li>State tax policy modeling capabilities</li>
-            <li>Analyzing state EITCs and CTCs</li>
+            <li>How microsimulation works</li>
+            <li>Modeling tax and benefit policies</li>
             <li>Measuring impacts on households, budgets, poverty, and inequality</li>
-            <li>Hands-on demonstration of the web app</li>
+            <li>Live demonstration</li>
           </ul>
         </SlideContent>
       </div>

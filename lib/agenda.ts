@@ -9,5 +9,5 @@ export interface AgendaItem {
 }
 
 export const agenda: AgendaItem[] = [
-  { time: 'TBD', title: 'Georgetown 2026', slideshowId: 'georgetown-2026', type: 'talk' },
+  { time: 'TBD', title: 'Introduction to PolicyEngine', speakerIds: ['max-ghenis', 'daphne-hansell'], slideshowId: 'georgetown-2026', type: 'talk' },
 ];

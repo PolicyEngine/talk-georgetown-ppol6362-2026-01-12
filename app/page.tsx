@@ -45,10 +45,10 @@ export default function Home() {
 
         {/* Title */}
         <h1 className="text-5xl font-bold text-white mb-4">
-          Georgetown 2026
+          Introduction to PolicyEngine
         </h1>
         <p className="text-xl text-white/80 mb-4">
-          Georgetown University
+          Georgetown University • 2026
         </p>
         <p className="text-lg text-white/60 mb-12">
           Click to view presentation slides
