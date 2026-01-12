@@ -9,13 +9,13 @@ export default function PolicyReformDemoSlide() {
     <Slide>
       <div className="max-w-7xl">
         <SlideHeader>
-          <SlideTitle>Demo: Tax rate reform analysis</SlideTitle>
+          <SlideTitle>Demo: American Worker Rebate Act</SlideTitle>
         </SlideHeader>
 
         <SlideContent size="lg">
           <div className="space-y-6 text-left">
             <p className="font-semibold text-pe-dark">
-              Simulating a hypothetical tax rate change in Minnesota
+              Modeling the American Worker Rebate Act using PolicyEngine
             </p>
 
             <div className="space-y-4 ml-6">
@@ -26,7 +26,7 @@ export default function PolicyReformDemoSlide() {
                   <li>Income inequality (Gini coefficient)</li>
                   <li>Net income by income decile</li>
                   <li>Winners, losers, and unaffected households</li>
-                  <li>Budget impact to Minnesota</li>
+                  <li>Federal budget impact</li>
                 </ul>
               </div>
             </div>

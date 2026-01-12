@@ -9,24 +9,24 @@ export default function HouseholdDemoSlide() {
     <Slide>
       <div className="max-w-7xl">
         <SlideHeader>
-          <SlideTitle>Demo: Household calculator</SlideTitle>
+          <SlideTitle>Demo: DC household</SlideTitle>
         </SlideHeader>
 
         <SlideContent size="lg">
           <div className="space-y-6 text-left">
             <p className="font-semibold text-pe-dark">
-              Create a household and calculate their taxes and benefits
+              Create a Washington DC household and calculate their taxes and benefits
             </p>
 
             <ul className="list-disc list-inside space-y-4 ml-6">
-              <li>Enter household characteristics: location, family size, ages</li>
+              <li>Enter household characteristics: family in Washington DC</li>
               <li>Set income and other relevant details</li>
               <li>View current tax liabilities and benefit eligibility</li>
               <li>See breakdown by program and net household income</li>
             </ul>
 
-            <p className="text-pe-teal font-semibold pt-2">
-              policyengine.org
+            <p className="text-pe-teal font-semibold pt-4">
+              policyengine.org →
             </p>
           </div>
         </SlideContent>

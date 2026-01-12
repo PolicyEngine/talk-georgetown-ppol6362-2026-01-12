@@ -13,6 +13,8 @@ import MicrosimWeightsSlide from './slides/MicrosimWeightsSlide';
 import MicrosimAggregateSlide from './slides/MicrosimAggregateSlide';
 import OurApproachSlide from './slides/OurApproachSlide';
 import HouseholdDemoSlide from './slides/HouseholdDemoSlide';
+import PolicyReformDemoSlide from './slides/PolicyReformDemoSlide';
+import ACADemoSlide from './slides/ACADemoSlide';
 import LiveCodingRevealSlide from './slides/LiveCodingRevealSlide';
 import EndSlide from './slides/EndSlide';
 
@@ -46,8 +48,10 @@ export const georgetown2026Config: SlideshowConfig = {
     // Our approach
     OurApproachSlide,
 
-    // Demo
-    HouseholdDemoSlide,
+    // Demos
+    HouseholdDemoSlide,        // DC household
+    PolicyReformDemoSlide,     // American Worker Rebate Act
+    ACADemoSlide,              // ACA modeling
 
     // Check back on AI coding
     LiveCodingRevealSlide,
