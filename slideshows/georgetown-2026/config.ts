@@ -11,6 +11,8 @@ import MicrosimDynamicsSlide from './slides/MicrosimDynamicsSlide';
 import MicrosimDataSlide from './slides/MicrosimDataSlide';
 import MicrosimWeightsSlide from './slides/MicrosimWeightsSlide';
 import MicrosimAggregateSlide from './slides/MicrosimAggregateSlide';
+import AnalystChoicesSlide from './slides/AnalystChoicesSlide';
+import DataSourcesSlide from './slides/DataSourcesSlide';
 import OurApproachSlide from './slides/OurApproachSlide';
 import HouseholdDemoSlide from './slides/HouseholdDemoSlide';
 import PolicyReformDemoSlide from './slides/PolicyReformDemoSlide';
@@ -22,10 +24,10 @@ import EndSlide from './slides/EndSlide';
 
 export const georgetown2026Config: SlideshowConfig = {
   id: 'georgetown-2026',
-  title: 'Introduction to PolicyEngine',
-  description: 'Introduction to PolicyEngine for Georgetown University',
-  date: '2026',
-  location: 'Georgetown University',
+  title: 'PolicyEngine: Measuring Policy Impacts on Inequality',
+  description: 'Guest lecture for PPOL 6362: Inequality and Public Policy',
+  date: 'January 12, 2026',
+  location: 'Georgetown McCourt School of Public Policy',
   slides: [
     // Kick off AI coding demo
     LiveCodingIntroSlide,
@@ -46,6 +48,10 @@ export const georgetown2026Config: SlideshowConfig = {
     MicrosimDataSlide,
     MicrosimWeightsSlide,
     MicrosimAggregateSlide,
+
+    // Measuring inequality - connects to syllabus readings
+    AnalystChoicesSlide,
+    DataSourcesSlide,
 
     // Our approach
     OurApproachSlide,
