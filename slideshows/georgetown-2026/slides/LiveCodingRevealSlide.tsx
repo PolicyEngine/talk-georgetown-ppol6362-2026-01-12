@@ -14,7 +14,7 @@ export default function LiveCodingRevealSlide() {
 
         <SlideContent size="lg">
           <p className="mb-8">
-            While we were talking, Claude Code was building a custom MN Working Families Credit visualizer.
+            While we were talking, Claude Code was building a custom policy visualizer.
           </p>
 
           <div className="space-y-6 text-left">
@@ -24,21 +24,17 @@ export default function LiveCodingRevealSlide() {
             </div>
             <div className="flex items-start gap-4">
               <span className="text-pe-teal text-3xl">→</span>
-              <p>Adjustable policy parameters (credit amount, phase-out rate, thresholds)</p>
+              <p>Adjustable policy parameters</p>
             </div>
             <div className="flex items-start gap-4">
               <span className="text-pe-teal text-3xl">→</span>
-              <p>Interactive chart showing credit by earnings and number of children</p>
+              <p>Interactive chart showing benefits by earnings and family size</p>
             </div>
             <div className="flex items-start gap-4">
               <span className="text-pe-teal text-3xl">→</span>
               <p>Model policy reforms in real-time</p>
             </div>
           </div>
-
-          <p className="mt-12 text-2xl text-gray-600">
-            localhost:5175
-          </p>
         </SlideContent>
       </div>
     </Slide>

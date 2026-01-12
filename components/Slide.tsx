@@ -66,7 +66,7 @@ export default function Slide({
             className="opacity-90"
           />
           <div className="text-white text-sm opacity-90 font-medium">
-            Minnesota House Research Department
+            Georgetown University
           </div>
         </div>
       )}

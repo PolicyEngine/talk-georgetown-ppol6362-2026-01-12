@@ -11,14 +11,14 @@ export default function LiveCodingIntroSlide() {
         <SlideHeader>
           <div className="flex items-center gap-4">
             <span className="slide-tag">Live Demo</span>
-            <SlideTitle>AI builds a tax credit visualizer</SlideTitle>
+            <SlideTitle>AI builds a policy visualizer</SlideTitle>
           </div>
         </SlideHeader>
 
         <SlideContent size="md">
           <p className="text-gray-600 mb-8">
             Let's kick off an AI coding exercise while we talk. This prompt will build a
-            custom visualization tool for Minnesota's Child & Working Families Credit:
+            custom visualization tool using PolicyEngine:
           </p>
 
           <div className="code-block">
@@ -29,7 +29,7 @@ export default function LiveCodingIntroSlide() {
               <span className="ml-4 text-gray-500 text-sm font-mono">claude-code</span>
             </div>
             <div className="code-block-content space-y-4">
-              <p className="text-[#7ee787]">Build a Python script that charts Minnesota's Child & Working Families Credit vs earnings using policyengine_us.</p>
+              <p className="text-[#7ee787]">Build a Python script that charts the federal Child Tax Credit vs earnings using policyengine_us.</p>
               <p className="text-gray-300">Show lines for 1, 2, and 3 children. Save the chart as an image.</p>
             </div>
           </div>
