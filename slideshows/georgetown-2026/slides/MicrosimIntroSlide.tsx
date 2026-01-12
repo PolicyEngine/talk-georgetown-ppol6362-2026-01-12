@@ -19,8 +19,8 @@ export default function MicrosimIntroSlide() {
                 <tr>
                   <th className="px-6 py-1"></th>
                   <th className="px-6 py-1"></th>
-                  <th className="px-6 py-1 text-center font-bold text-xl">Baseline</th>
-                  <th className="px-6 py-1 text-center font-bold text-xl text-green-600" colSpan={5}>Reform</th>
+                  <th className="px-6 py-1 text-center font-bold text-xl opacity-0">Baseline</th>
+                  <th className="px-6 py-1 text-center font-bold text-xl text-green-600 opacity-0" colSpan={5}>Reform</th>
                 </tr>
               <tr className="border-b-2 border-gray-400">
                 <th className="px-6 py-3 text-left w-32">Gross income</th>
