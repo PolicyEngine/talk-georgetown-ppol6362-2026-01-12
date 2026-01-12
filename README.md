@@ -4,7 +4,7 @@ Guest lecture for Georgetown McCourt School of Public Policy.
 
 ## Presentation
 
-**Title**: PolicyEngine: Measuring Policy Impacts on Inequality
+**Title**: Simulating tax and transfer policies' inequality impacts with PolicyEngine
 **Course**: PPOL 6362 - Inequality and Public Policy
 **Date**: January 12, 2026
 **Location**: Georgetown McCourt School of Public Policy

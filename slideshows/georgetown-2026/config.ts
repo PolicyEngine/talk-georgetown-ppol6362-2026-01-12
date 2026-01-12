@@ -24,7 +24,7 @@ import EndSlide from './slides/EndSlide';
 
 export const georgetown2026Config: SlideshowConfig = {
   id: 'georgetown-2026',
-  title: 'PolicyEngine: Measuring Policy Impacts on Inequality',
+  title: "Simulating tax and transfer policies' inequality impacts with PolicyEngine",
   description: 'Guest lecture for PPOL 6362: Inequality and Public Policy',
   date: 'January 12, 2026',
   location: 'Georgetown McCourt School of Public Policy',
