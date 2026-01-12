@@ -15,6 +15,7 @@ import OurApproachSlide from './slides/OurApproachSlide';
 import HouseholdDemoSlide from './slides/HouseholdDemoSlide';
 import PolicyReformDemoSlide from './slides/PolicyReformDemoSlide';
 import ACADemoSlide from './slides/ACADemoSlide';
+import ACADemoSlide2 from './slides/ACADemoSlide2';
 import LiveCodingRevealSlide from './slides/LiveCodingRevealSlide';
 import EndSlide from './slides/EndSlide';
 
@@ -50,8 +51,9 @@ export const georgetown2026Config: SlideshowConfig = {
 
     // Demos
     HouseholdDemoSlide,        // DC household
-    PolicyReformDemoSlide,     // American Worker Rebate Act
-    ACADemoSlide,              // ACA modeling
+    PolicyReformDemoSlide,     // SNAP earned income deduction
+    ACADemoSlide,              // ACA - Texas couple
+    ACADemoSlide2,             // ACA - NY family
 
     // Check back on AI coding
     LiveCodingRevealSlide,
